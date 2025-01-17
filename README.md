@@ -1,2 +1,3 @@
 # alberto-IAW
-Alberto, Implantació nde Aplic. Web
+Alberto, Implantación de Aplic. Web
+Repositorio mío
